@@ -1,7 +1,7 @@
 from hangman import hangman
 
 while True:
-    txt = """Hi welcome to Javier's games.\n
+    txt = """Hi welcome to my games.\n
     (1) Hangman
     (2) ConnectFour\n
     Please select one number to play a game or 'q' to quit: """
